@@ -1,6 +1,25 @@
 {
   "format": 1,
   "objects": {
+    "3715e9d78507b83bc32e51d15b071d25dc8865b8815fb20154f7f15407db0a48": {
+      "compressed_size": 12941697,
+      "compression": "gzip",
+      "date": "2026-10-27",
+      "ext": "msh",
+      "generator_sha256": "b30e8944b257734e1b6e481e987d441fda3cef7c0010ec97a53e428aa0b7f4d7",
+      "job": {
+        "device": "nfet_05v0",
+        "dim": 2,
+        "dir": "tcad/moscap2d/nfet_05v0/calibrated/w10p0_l1p00",
+        "params": "calibrated"
+      },
+      "object": "objects/sha256/37/3715e9d78507b83bc32e51d15b071d25dc8865b8815fb20154f7f15407db0a48.msh.gz",
+      "paths": [
+        "results/tcad/moscap2d/nfet_05v0/calibrated/w10p0_l1p00/mesh.msh"
+      ],
+      "primary_commit": "4b4b2f658d102cd86e06f45b472a0b2e8f66e636",
+      "size": 37630672
+    },
     "8dad0ca787dc3d805661e6262725bb833ba33edf1b46bf7b4a3ce69afbc2ea64": {
       "compressed_size": 9507772,
       "compression": "gzip",
