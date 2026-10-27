@@ -1,6 +1,25 @@
 {
   "format": 1,
   "objects": {
+    "1a8513e2d300c7f369b06920d9c2cc6489347d114810ccf2ef05219b51df3e5b": {
+      "compressed_size": 8639077,
+      "compression": "gzip",
+      "date": "2026-10-28",
+      "ext": "msh",
+      "generator_sha256": "bf8f2dcc6ab044aa5044da9b71689b305418f09fee23659097ee04bf32fad72a",
+      "job": {
+        "device": "pfet_05v0",
+        "dim": 2,
+        "dir": "tcad/moscap2d/pfet_05v0/calibrated/w10p0_l0p50",
+        "params": "calibrated"
+      },
+      "object": "objects/sha256/1a/1a8513e2d300c7f369b06920d9c2cc6489347d114810ccf2ef05219b51df3e5b.msh.gz",
+      "paths": [
+        "results/tcad/moscap2d/pfet_05v0/calibrated/w10p0_l0p50/mesh.msh"
+      ],
+      "primary_commit": "354ee186673a74104059eb2d8ff65c6fd738c411",
+      "size": 24983410
+    },
     "3715e9d78507b83bc32e51d15b071d25dc8865b8815fb20154f7f15407db0a48": {
       "compressed_size": 12941697,
       "compression": "gzip",
